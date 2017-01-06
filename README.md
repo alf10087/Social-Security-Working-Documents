@@ -1,5 +1,7 @@
 # Social-Security-Working-Documents
-Working files for research project on the regressivity of U.S. Social Security
+Working files for research project on the regressivity of U.S. Social Security.
+Format: Stata
+Created by: alf10087
 
 Filename | What it does 
 ---|---------
